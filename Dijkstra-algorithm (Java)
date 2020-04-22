@@ -1,8 +1,3 @@
-Skip to content
-ResultsCode
-Submitted Files for Programming assignment 2
- Dijkstra.java
- Download
 
 import java.util.*;
 import java.util.PriorityQueue;
@@ -114,11 +109,3 @@ public static void dijkstra(int cur) {
 	
 }
 }
-
-
-
-STUDENT
-Kevin Tu
-AUTOGRADER SCORE
-13.0 / 13.0
-Submission HistoryDownload Submission
